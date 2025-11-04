@@ -2,8 +2,8 @@
 {
     private static void Main(string[] args)
     {
-        int[] nota = new int[2], frequencia = new int[2];
-        string[] nome = new string[2], situacao = new string[2];
+        int[] nota = new int[5], frequencia = new int[5];
+        string[] nome = new string[5], situacao = new string[5];
         
 
         for (int i = 0; i < nome.Length; i++)
